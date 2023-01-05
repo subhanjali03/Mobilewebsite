@@ -1,0 +1,35 @@
+.bgimg2{
+	background-image: url('https://img.freepik.com/free-vector/blue-futuristic-networking-technology_53876-100679.jpg?w=2000');
+	background-size: cover;
+    height: 200vh;
+}
+.mobilehead{
+	color: white;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 35px;
+    padding: 25px;
+}
+.layoutcard2{
+	background-color: white;
+	border-radius: 8px;
+	padding: 20px;
+	padding-bottom: 5px;
+	margin: 18px;
+}
+.bransimg{
+	width: 120px;
+	height: 120px;
+
+}
+.brandshead{
+	color: #423131;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 30px;
+}
+.brandspara{
+	color: black;
+	font-family: 'Roboto';
+	font-size: 15px;
+}

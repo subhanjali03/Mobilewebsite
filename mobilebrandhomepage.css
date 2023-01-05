@@ -1,0 +1,12 @@
+.bgimg{
+	background-image: url('https://img.freepik.com/free-vector/blue-futuristic-networking-technology_53876-100679.jpg?w=2000');
+	background-size: cover;
+    height: 100vh;
+}
+.layoutcard{
+	background-color: white;
+	height: 180px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	padding: 20px;
+}
